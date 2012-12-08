@@ -1,4 +1,4 @@
-name = 'drupal_sgf'
+name = 'sgf_info'
 description = ''
 core = '7.x'
 engine = 'phptemplate'
