@@ -1,4 +1,4 @@
-name = 'sgf_info'
+name = 'SGF Theme'
 description = ''
 core = '7.x'
 engine = 'phptemplate'
